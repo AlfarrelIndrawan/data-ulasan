@@ -1,0 +1,7 @@
+Aspek;Accuracy;Precision;Recall;F1-Score
+Harga;1.0;0.99;1.0;0.99
+Kenyamanan;0.91;0.94;0.91;0.93
+Pelayanan;0.97;0.99;0.98;0.98
+Rasa;0.92;0.93;0.92;0.92
+Umum;0.84;0.8;0.84;0.82
+Rata-rata;0.93;0.93;0.93;0.93
